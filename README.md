@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shadab Ali</h1>
+<h1 align="center">Hi, I'm Shadab</h1>
 <h3 align="center">A Creative Frontend Developer</h3>
 
 - 👨‍🎓 **3rd Year student at NSUT**
