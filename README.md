@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Shadab</h1>
 <h3 align="center">A Creative Frontend Developer</h3>
 
-- 👨‍🎓 **3rd Year student at NSUT**
+- 👨‍🎓 **Final Year student at NSUT**
 
 - 🌱 I’m currently learning **ReactJS & Express**
 
 - 📫 How to reach me **shadabali2k2@gmail.com**
 
-- ⚡ **Carpe Diem**
+- ⚡ Exploring the open source world
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
