@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-Sh4dab&color=blueviolet)
 <h1 align="center">Hi, I'm Shadab</h1>
 <h3 align="center">A Creative Frontend Developer</h3>
 
